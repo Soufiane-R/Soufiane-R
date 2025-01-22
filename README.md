@@ -1,37 +1,30 @@
-# Hey, this is Sopanha ! 👋
+Salut, moi c'est Soufiane Rabhiui ! 👋
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+Bonjour à tous,
 
-Hello everyone, <br>
+🎓 Je suis analyste de données, en reconversion professionnelle après plusieurs années d'expérience dans des domaines variés. J'ai récemment complété une formation à la Wild Code School pour obtenir une certification RNCP de niveau 6 (équivalent Bac+3).
 
-🎓 I recently joined my RNCP level 6 certification (equivalent to bac +3) as a data analyst following my bootcamp training at Wild Code School. 
+🚀 Actuellement, je suis à la recherche d'un poste de Data Analyst, où je pourrais mettre en pratique mes compétences en Python, SQL, outils de visualisation, et machine learning.
 
-🚀 I am currently looking for a company to do an Data & AI Engineer work-study program in the same school with a schedule of one week at school and 3 weeks in the company for a period of 15 months.
+💪 Curieux, créatif et dynamique, je suis motivé à relever de nouveaux défis et à contribuer à des projets innovants dans des équipes ambitieuses. ✨
 
-💪 I am curious, creative, dynamic and ready to take on new challenges. ✨
+Mon profil en bref :
+🤖 Passionné par l'intelligence artificielle et les solutions basées sur les données
+📈 Toujours en quête de nouvelles connaissances pour progresser et innover
+🛠️ Prêt à collaborer et à apporter des solutions impactantes
 
-<br>
+👉 Si vous recherchez un talent motivé et déterminé pour rejoindre votre équipe, je suis prêt à faire la différence !
 
-My profile in brief:
+🎯 Objectif : Participer à des projets novateurs, exploiter la puissance des données et contribuer à des décisions éclairées grâce à des solutions IA. 🚀
 
-🤖 Passionate about artificial intelligence
+🙏 Merci pour votre visite, et à très bientôt ! 🌟
 
-📈 Always looking for new knowledge
+Me contacter :
+📧 Email : rabhiui.soufiane@gmail.com
+🔗 LinkedIn : linkedin.com/in/soufiane-rabhiui
+💻 GitHub : github.com/Soufiane-R
 
-🛠️ Excited to collaborate and innovate
-
-👉 If you are looking for a motivated and determined talent to join your team, do not hesitate to contact me. !<br>
-
-🎯 Objectif : Contribute to innovative projects and be part of a dynamic team to create a better future with AI. 🚀<br>
-
-🙏 Thank you and see you soon! 🌟<br>
-
-<div align="center">#DataAnalyst #AI #Alternance #Innovation #ReconversionProfessionnelle #ReadyForChallenges #LetsInnovate #CareerGoals #FutureLeader
-</div>
-
-<div align="center">
-  <h2>🛠️ Tools & Technologies</h2>
-</div>
-
+<div align="center">#DataAnalyst #IA #ReconversionProfessionnelle #Innovation #Carrière #NouveauxDéfis #Innover #ObjectifsCarrière #FuturLeader </div>
 <div align="center"> 
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python" width="50" height="50" />
