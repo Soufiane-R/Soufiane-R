@@ -21,7 +21,7 @@ Mon profil en bref :
 
 Me contacter :
 📧 Email : rabhiui.soufiane@gmail.com
-🔗 LinkedIn : linkedin.com/in/soufiane-rabhiui
+🔗 LinkedIn : Mon profil LinkedIn
 💻 GitHub : github.com/Soufiane-R
 
 <div align="center">#DataAnalyst #IA #ReconversionProfessionnelle #Innovation #Carrière #NouveauxDéfis #Innover #ObjectifsCarrière #FuturLeader </div>
