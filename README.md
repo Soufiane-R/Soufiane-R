@@ -1,5 +1,4 @@
 Salut, moi c'est Soufiane Rabhiui ! 👋
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 🎓 Je suis analyste de données, en reconversion professionnelle après plusieurs années d'expérience dans des domaines variés. J'ai récemment complété une formation à la Wild Code School pour obtenir une certification RNCP de niveau 6 (équivalent Bac+3).
 
