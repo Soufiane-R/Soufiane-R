@@ -46,7 +46,6 @@ Me contacter :
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
  <div align="center">
           
-   <h2>🐍 My Contributions 🐍</h2>
  </div>
   
 ![snake gif](https://github.com/victoria-1989/victoria-1989/blob/output/github-contribution-grid-snake.svg)
