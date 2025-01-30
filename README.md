@@ -25,6 +25,7 @@ Me contacter :
 💻 GitHub : [github.com/Soufiane-R](https://github.com/Soufiane-R)
 
 <div align="center">#DataAnalyst #IA #ReconversionProfessionnelle #Innovation #Carrière #NouveauxDéfis #Innover #ObjectifsCarrière  </div>
+
 <div align="center"> 
 
 
